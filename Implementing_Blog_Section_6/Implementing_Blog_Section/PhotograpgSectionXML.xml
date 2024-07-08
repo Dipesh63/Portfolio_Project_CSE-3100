@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		
+		<ImageUrl>images/Nature1.jpg</ImageUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>images/Nature2.jpg</ImageUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>images/Nature3.jpg</ImageUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>images/Nature4.jpg</ImageUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>images/Nature1.jpg</ImageUrl>
+	</Ad>
+</Advertisements>
